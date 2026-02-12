@@ -2,8 +2,8 @@ import  mysql.connector
 
 connection = mysql.connector.connect(
     host = "localhost",
-    user = "rot",
-    password = "root",
+    user = "root",
+    password = "",
     database = "backend_database"
 )
 
