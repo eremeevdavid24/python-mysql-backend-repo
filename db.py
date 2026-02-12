@@ -6,3 +6,5 @@ connection = mysql.connector.connect(
     password = "root",
     database = "backend_database"
 )
+
+cursor = connection.cursor()
