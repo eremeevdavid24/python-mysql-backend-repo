@@ -1,0 +1,1 @@
+MySQL is a widely-used, open-source relational database management system (RDBMS) that uses Structured Query Language (SQL) for managing data. It is known for its reliability, performance, and scalability, making it a popular choice for everything from small projects to large-scale applications at companies like Facebook, Netflix, and Uber. 
